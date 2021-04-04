@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>3</id>
+  <lang></lang>
+  <title>Khối trái</title>
+  <form>sequential</form>
+  <width>220</width>
+  <height>100</height>
+  <banners>
+    <banners_item>
+      <id>4</id>
+      <title>Khối trái</title>
+      <clid>0</clid>
+      <file_name>bannerbsthuan.swf</file_name>
+      <file_ext>swf</file_ext>
+      <file_mime>application/x-shockwave-flash</file_mime>
+      <file_width>180</file_width>
+      <file_height>250</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+    </banners_item>
+  </banners>
+</plan>

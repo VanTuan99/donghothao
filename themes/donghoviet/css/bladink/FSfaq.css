@@ -1,0 +1,226 @@
+/* CSS FSfaq.css */
+
+.hoidap_count{
+	color:#cc6600;
+}
+.hoidap_detail .fl{
+	width:140px;
+	text-align:center;
+}
+.hoidap_detail_break_word{
+	width:420px;
+	word-wrap:break-word;
+	overflow:auto;
+}
+.hoidap_detail_poll{
+	margin-top:10px;
+}
+.hoidap_detail_poll .note_error{
+	color:#FF0000;
+	margin-top:5px;
+}
+.hoidap_detail_poll .note_multi{
+	color:#FF0000;
+	font-weight:normal;
+	margin-top:2px;
+}
+.hoidap_detail_poll .poll_title{
+	margin-bottom:5px;
+	font-size:14px;
+	font-weight:bold;
+	color:#cc6600;
+}
+.hoidap_image_style{
+	border:1px #EEEEEE solid;
+}
+.hoidap_picture{
+	height:50px;
+	overflow:hidden;
+}
+.hoidap_poll_table{
+	border-collapse:collapse;
+	color:#333333;
+	font-family:Arial, Helvetica;
+	font-size:12px;
+	width:99%;
+}
+.hoidap_poll_table .graph{
+	text-align:left;
+	white-space:nowrap;
+}
+.hoidap_poll_table .name{
+	text-align:left;
+}
+.hoidap_poll_table .percent{
+	text-align:right;
+}
+.hoidap_poll_table .point{
+	font-weight:bold;
+	text-align:right;
+}
+.hoidap_poll_table .submit_btn{
+	float:left;
+	color:#FF0000;
+}
+.hoidap_poll_table .title{
+	background:#eaf4ff;
+	font-weight:bold;
+}
+.hoidap_poll_table .total{
+	float:right;
+	padding-top:3px;
+}
+.hoidap_poll_table td{
+	padding:5px;
+}
+.hoidap_post_link{
+	text-align:right;
+	font-size:11px;
+	font-weight:bold;
+}
+.hoidap_post_link a{
+	color:#CE0000;
+}
+.hoidap_product_table{
+	font-size:12px;
+}
+.hoidap_remove_reply_thankyou{
+	background:url(http://www.vatgia.com/images/hoidap_remove.gif) no-repeat 0px 1px;
+	font-size:12px;
+	color:#FF0000;
+	padding-left:16px;
+}
+.hoidap_reply_button{
+	background:url(http://www.vatgia.com/images/hoidap_reply_button_bg.gif) no-repeat;
+	color:#FFFFFF;
+}
+.hoidap_reply_button, .hoidap_reply_button_hover, .hoidap_reply_button_lock{
+	width:165px;
+	height:27px;
+	cursor:pointer;
+	font-size:13px;
+	font-weight:bold;
+}
+.hoidap_reply_button_hover{
+	background:url(http://www.vatgia.com/images/hoidap_reply_button_bg_hover.gif) no-repeat;
+	color:#333333;
+}
+.hoidap_reply_button_lock{
+	background:url(http://www.vatgia.com/images/hoidap_reply_button_bg_lock.gif) no-repeat;
+	color:#FFFFFF;
+	cursor:auto;
+}
+.hoidap_reply_description{
+	line-height:17px;
+}
+.hoidap_reply_page{
+	font-size:11px;
+	color:#333333;
+	margin-top:3px;
+	margin-left:17px;
+}
+.hoidap_reply_page a:hover{
+	color:#FF3300;
+}
+.hoidap_send_error{
+	font-size:12px;
+}
+.hoidap_staroff{
+	background:url(http://www.vatgia.com/images/hoidap_staroff.gif) no-repeat;
+}
+.hoidap_staroff_hover{
+	background:url(http://www.vatgia.com/images/hoidap_staron.gif) no-repeat;
+}
+.hoidap_staron{
+	background:url(http://www.vatgia.com/images/hoidap_staron.gif) no-repeat;
+}
+.hoidap_staron, .hoidap_staroff, .hoidap_staroff_hover{
+	cursor:pointer;
+	margin-right:5px;
+	width:12px;
+	height:12px;
+}
+.hoidap_text_small{
+	font-size:11px;
+	color:#333;
+}
+.hoidap_text_small a{
+	color:#333;
+	text-decoration:underline;
+}
+.hoidap_text_small a:hover{
+	color:#066aff;
+}
+.hoidap_thankyou_message{
+	font-size:12px;
+	color:#333;
+}
+.hoidap_thankyou_message_title{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/break.png);
+	border-bottom:1px #fffcc9 solid;
+	font-size:14px;
+	font-weight:bold;
+	padding-bottom:3px;
+	padding-top:3px;
+}
+.hoidap_title{
+	font-size:12px;
+	line-height:17px;
+}
+.hoidap_title_detail{
+	font-size:16px;
+	font-weight:bold;
+	margin:0px;
+}
+.hoidap_title_green{
+	font-size:14px;
+	font-weight:bold;
+	color:#333333;
+}
+.hoidap_tr_0{
+	background:#F4F4F4;
+}
+.hoidap_user{
+	font-size:12px;
+	color:#666666;
+}
+.hoidap_user_avatar span{
+	border:1px #ddd solid;
+	padding:2px;
+	width:120px;
+	display:block;
+	overflow:hidden;
+}
+.hoidap_user_div{
+	border-bottom:1px #CCCCCC dotted;
+	padding:3px 0px 3px 0px;
+}
+.hoidap_user_level_title{
+	font-size:10px;
+	color:#FF0000;
+	text-align:center;
+}
+.hoidap_user_loginname{
+	font-size:15px;
+	font-weight:bold;
+	color:#006699;
+	padding-bottom:0px;
+	padding-top:2px;
+}
+.hoidap_user_point{
+	background:#EEEEEE;
+	border-top:1px #CCCCCC solid;
+	color:#006699;
+}
+.quote{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/bg_grey.png);
+	border-top:1px #ddd solid;
+	border-left:1px #ddd solid;
+	border-right:1px #ddd solid;
+	border-bottom:1px #ddd solid;
+	font-style:italic;
+	padding:6px;
+}
+.reply_warning{
+	color:#FF03000;
+}

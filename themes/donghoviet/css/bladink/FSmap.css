@@ -1,0 +1,42 @@
+/* CSS FSmap.css */
+
+#map_canvas{
+	width:700px;
+	height:500px;
+	float:right;
+	margin-right:10px;
+}
+.map_description{
+	color:#000000;
+	width:275px;
+	overflow:auto;
+}
+.map_description .default{
+	color:#FFF000;
+}
+.map_description div{
+	margin:3px;
+	line-height:17px;
+}
+.map_list_address{
+	float:left;
+	width:250px;
+	height:500px;
+	overflow:hidden;
+	margin-left:10px;
+}
+.map_list_address .list{
+	line-height:17px;
+	margin-bottom:5px;
+}
+.map_list_address span{
+	color:#FF0000;
+}
+.map_title{
+	color:#30A602;
+	font-weight:bold;
+}
+.navigate .C{
+	width:960px;
+	margin-left:15px;
+}

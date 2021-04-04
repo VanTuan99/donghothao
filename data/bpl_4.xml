@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>4</id>
+  <lang></lang>
+  <title>Khối phải</title>
+  <form>sequential</form>
+  <width>184</width>
+  <height>100</height>
+  <banners>
+    <banners_item>
+      <id>10</id>
+      <title>Siêu Thị Website</title>
+      <clid>0</clid>
+      <file_name>banner-web-vinagon.jpg</file_name>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>169</file_width>
+      <file_height>414</file_height>
+      <file_alt></file_alt>
+      <file_click>http://web.vinagon.com</file_click>
+    </banners_item>
+  </banners>
+</plan>

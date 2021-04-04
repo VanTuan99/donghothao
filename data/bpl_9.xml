@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>9</id>
+  <lang></lang>
+  <title>tv_body_top</title>
+  <form>sequential</form>
+  <width>720</width>
+  <height>235</height>
+  <banners>
+    <banners_item>
+      <id>13</id>
+      <title>tv_body_top</title>
+      <clid>0</clid>
+      <file_name>2002201224gio_thuong.swf</file_name>
+      <file_ext>swf</file_ext>
+      <file_mime>application/x-shockwave-flash</file_mime>
+      <file_width>720</file_width>
+      <file_height>235</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+    </banners_item>
+  </banners>
+</plan>

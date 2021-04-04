@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>5</id>
+  <lang></lang>
+  <title>khoi tren</title>
+  <form>sequential</form>
+  <width>960</width>
+  <height>350</height>
+  <banners>
+    <banners_item>
+      <id>6</id>
+      <title>top</title>
+      <clid>0</clid>
+      <file_name>banner_8-03.png</file_name>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>985</file_width>
+      <file_height>343</file_height>
+      <file_alt></file_alt>
+      <file_click>http://dinhpc.com</file_click>
+    </banners_item>
+  </banners>
+</plan>

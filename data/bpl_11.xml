@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>11</id>
+  <lang></lang>
+  <title>sdsd</title>
+  <form>sequential</form>
+  <width>182</width>
+  <height>80</height>
+  <banners>
+    <banners_item>
+      <id>16</id>
+      <title>sdsadsad</title>
+      <clid>0</clid>
+      <file_name>05012012giaydantuong.gif</file_name>
+      <file_ext>gif</file_ext>
+      <file_mime>image/gif</file_mime>
+      <file_width>182</file_width>
+      <file_height>80</file_height>
+      <file_alt>sdsd</file_alt>
+      <file_click>http://www.giaydantuongnghean.com</file_click>
+    </banners_item>
+  </banners>
+</plan>

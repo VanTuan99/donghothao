@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>8</id>
+  <lang></lang>
+  <title>khối phải tt</title>
+  <form>sequential</form>
+  <width>202</width>
+  <height>65</height>
+  <banners>
+    <banners_item>
+      <id>12</id>
+      <title>Chi Tiết Thanh Toán</title>
+      <clid>0</clid>
+      <file_name>httt.jpg</file_name>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>202</file_width>
+      <file_height>51</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+    </banners_item>
+  </banners>
+</plan>

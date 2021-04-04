@@ -1,0 +1,336 @@
+/* CSS FSdetail_product.css */
+
+.estore_information{
+	padding:3px 15px 3px 15px;
+	height:100%;
+}
+.estore_information .clear{
+	margin-bottom:0px;
+}
+.estore_information .company{
+	font-size:16px;
+	font-weight:bold;
+	color:#fcff46;
+}
+.estore_information .fl{
+	width:600px;
+}
+.estore_information .fl div{
+	margin-bottom:3px;
+	color:#000000;
+}
+.estore_information .fr{
+	width:180px;
+}
+.estore_information .fr .estore_verified{
+	color:#00A2E9;
+	cursor:pointer;
+	text-decoration:none;
+}
+.estore_information .fr .estore_verified:hover{
+	text-decoration:none;
+}
+.estore_information .fr div{
+	background:#f4f4f4;
+	color:#999999;
+	font-size:15px;
+	font-weight:bold;
+	width:125px;
+	margin-right:10px;
+	height:44px;
+	padding:10px;
+	text-align:center;
+	float:right;
+}
+.estore_information .slogan{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/bg_grey.png);
+	color:#45FF45;
+	font-size:13px;
+	font-weight:bold;
+	padding:5px;
+	margin:5px 0px 5px 0px;
+}
+.estore_information img{
+	vertical-align:middle;
+	margin-right:5px;
+}
+.product_detail .consult{
+	margin-top:5px;
+	text-align:right;
+	padding-right:10px;
+}
+.product_detail .consult a{
+	font-weight:bold;
+}
+.product_detail .fl{
+	width:222px;
+	float:left;
+}
+.product_detail .fr{
+	width:550px;
+	float:right;
+}
+.product_detail .other_information{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/bg_grey.png);
+	color:#333;
+	height:100%;
+	padding:5px 8px 5px 8px;
+	margin-bottom:5px;
+	text-align:justify;
+}
+.product_detail h1{
+	font-size:20px;
+	margin:0px;
+	margin-bottom:10px;
+}
+.product_detail, .product_detail_description, .raovat_detail_description{
+	width:785px;
+	overflow:hidden;
+	padding-right:10px;
+}
+.product_detail_table{
+	color:#333;
+}
+.product_detail_table .left{
+	font-weight:bold;
+	text-align:right;
+}
+.product_detail_table .notice a{
+	padding-left:18px;
+	font-size:10px;
+}
+.product_detail_table .notice_price{
+	background:url(notice_price.gif) no-repeat;
+}
+.product_detail_table .notice_stock{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/notice_stock.gif) no-repeat;
+}
+.product_detail_table .price{
+	font-weight:bold;
+	font-size:15px;
+}
+.product_detail_table td{
+	padding:4px 6px 4px 6px;
+}
+.product_detail_v2 .fl{
+	width:400px;
+}
+.product_detail_v2 .fl .center{
+	float:left;
+	width:332px;
+	overflow:hidden;
+}
+.product_detail_v2 .fl .left{
+	background-position:0px 0px;
+	margin:11px 6px 0px 13px;
+}
+.product_detail_v2 .fl .left, .product_detail_v2 .fl .right{
+	background-image:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/icon_navigate_small.png);
+	background-repeat:no-repeat;
+	float:left;
+	width:15px;
+	height:27px;
+}
+.product_detail_v2 .fl .left:hover{
+	background-position:-15px 0px;
+}
+.product_detail_v2 .fl .picture_fullsize{
+	background:#FFFFFF;
+	margin-bottom:5px;
+}
+.product_detail_v2 .fl .picture_fullsize .loading{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/bg_loading.gif) no-repeat center #FFFFFF;
+	position:absolute;
+	width:400px;
+	height:400px;
+}
+.product_detail_v2 .fl .picture_fullsize .next{
+	background-position:0px -40px;
+	margin-left:370px;
+}
+.product_detail_v2 .fl .picture_fullsize .next:hover{
+	background-position:-30px -40px;
+}
+.product_detail_v2 .fl .picture_fullsize .previous{
+	background-position:0px 0px;
+}
+.product_detail_v2 .fl .picture_fullsize .previous, .product_detail_v2 .fl .picture_fullsize .next{
+	background-image:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/icon_navigate.png);
+	background-repeat:no-repeat;
+	display:block;
+	position:absolute;
+	margin-top:180px;
+	width:30px;
+	height:40px;
+	z-index:2;
+}
+.product_detail_v2 .fl .picture_fullsize .previous:hover{
+	background-position:-30px 0px;
+}
+.product_detail_v2 .fl .picture_fullsize table{
+	height:400px;
+}
+.product_detail_v2 .fl .picture_fullsize table img{
+	cursor:pointer;
+}
+.product_detail_v2 .fl .picture_larger{
+	font-size:0px;
+	margin:0px;
+	padding:0px;
+}
+.product_detail_v2 .fl .picture_thumbnail td{
+	background:#FFFFFF;
+	border:1px #CCCCCC solid;
+	padding:1px;
+	height:40px;
+	text-align:center;
+}
+.product_detail_v2 .fl .picture_thumbnail td a{
+	display:block;
+	width:40px;
+}
+.product_detail_v2 .fl .picture_thumbnail td.current{
+	border:1px #E97D13 solid;
+}
+.product_detail_v2 .fl .right{
+	background-position:0px -27px;
+	margin:11px 13px 0px 6px;
+}
+.product_detail_v2 .fl .right:hover{
+	background-position:-15px -27px;
+}
+.product_detail_v2 .fr{
+	width:375px;
+}
+.product_detail_v2 .fr .estore_icon_professional{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/estore_professional.png) no-repeat;
+}
+.product_detail_v2 .fr .estore_icon_verified{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/estore_verified.png) no-repeat;
+}
+.product_detail_v2 .fr .estore_icon_verified, .product_detail_v2 .fr .estore_icon_professional{
+	margin:4px 0px 0px 320px;
+	position:absolute;
+	width:50px;
+	height:65px;
+}
+.product_detail_v2_exclusive .fl .picture_fullsize .loading{
+	height:480px;
+}
+.product_detail_v2_exclusive .fl .picture_fullsize .previous, .product_detail_v2_exclusive .fl .picture_fullsize .next{
+	margin-top:220px;
+}
+.product_detail_v2_exclusive .fl .picture_fullsize table{
+	height:480px;
+}
+.product_faq_review .faq_list{
+	background:url(arrow.gif) no-repeat 0px 3px;
+}
+.product_faq_review .faq_list, .product_faq_review .review_list{
+	padding-left:10px;
+	margin-bottom:5px;
+}
+.product_faq_review .faq_option{
+	text-align:right;
+	padding-right:10px;
+}
+.product_faq_review .faq_option .add{
+	background:url(icon_add.gif) no-repeat 0px 2px;
+	padding-left:15px;
+}
+.product_faq_review .faq_option .view_all{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/icon_list.gif) no-repeat;
+	padding-left:16px;
+}
+.product_faq_review .review_list{
+	background:url(arrow.gif) no-repeat 0px 3px;
+}
+.product_faq_review .title{
+	font-weight:bold;
+	color:#CC0000;
+	margin-bottom:8px;
+}
+.product_picture_more{
+	overflow:hidden;
+}
+.product_picture_more_btn{
+	margin:3px 5px 0px 0px;
+	text-align:right;
+}
+.product_picture_more_btn .collapse{
+	background:url(arrow_up.gif) no-repeat right center;
+}
+.product_picture_more_btn .expand{
+	background:url(arrow_down.gif) no-repeat right center;
+}
+.product_picture_more_btn a{
+	padding-right:13px;
+}
+.product_picture_table{
+	font-size:0px;
+}
+.product_picture_table td{
+	padding:1px;
+}
+.product_picture_table td .border{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/bg_grey.png);
+	padding:5px;
+	width:60px;
+	height:42px;
+	overflow:hidden;
+	text-align:center;
+}
+.product_picture_table td .border a{
+	background-color:#FFFFFF;
+	background-repeat:no-repeat;
+	background-position:center;
+	display:block;
+	width:60px;
+	height:42px;
+	overflow:hidden;
+}
+.product_picture_table td .border a:hover{
+	filter:alpha(opacity=75);
+	-moz-opacity:.75;
+	-khtml-opacity:.75;
+	opacity:.75;
+}
+.product_price_tr td{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/bg_grey.png);
+}
+.product_technical_note{
+	margin-bottom:8px;
+	padding-right:10px;
+}
+.product_technical_note b{
+	color:#FF0000;
+}
+.product_technical_table{
+	border-collapse:collapse;
+	width:100%;
+}
+.product_technical_table .name{
+	font-weight:bold;
+	text-align:right;
+	vertical-align:middle;
+	width:43%;
+}
+.product_technical_table .table_2{
+	width:100%;
+}
+.product_technical_table .table_2 td{
+	border:none;
+	padding:2px 4px 2px 4px;
+	vertical-align:top;
+}
+.product_technical_table .title{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/bg_grey.png);
+	color:#FF0000;
+	font-weight:bold;
+	text-align:center;
+}
+.product_technical_table td{
+	border:1px #ddd solid;
+	padding:3px 6px 3px 6px;
+	vertical-align:top;
+}

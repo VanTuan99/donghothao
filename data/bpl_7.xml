@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>7</id>
+  <lang></lang>
+  <title>khoi qc phai</title>
+  <form>sequential</form>
+  <width>100</width>
+  <height>500</height>
+  <banners>
+    <banners_item>
+      <id>7</id>
+      <title>quc</title>
+      <clid>0</clid>
+      <file_name>bannerwomenday.png</file_name>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>98</file_width>
+      <file_height>493</file_height>
+      <file_alt></file_alt>
+      <file_click>http://vinagon.com</file_click>
+    </banners_item>
+  </banners>
+</plan>

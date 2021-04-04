@@ -1,0 +1,51 @@
+/* CSS FSdetail_news.css */
+
+.news_detail_description{
+	text-align:justify;
+	margin-top:14px;
+}
+.news_detail_picture{
+	margin:0px;
+	padding:0px;
+	font-size:0px;
+}
+.news_detail_picture .name{
+	color:#666;
+	font-size:11px;
+	text-align:center;
+	margin-top:3px;
+}
+.news_detail_picture.left{
+	float:left;
+	margin-right:8px;
+}
+.news_detail_picture.right{
+	float:right;
+	margin-left:8px;
+}
+.news_detail_teaser{
+	line-height:17px;
+	font-weight:bold;
+	color:#666;
+	text-align:justify;
+}
+.news_detail_title{
+	font-size:20px;
+	margin:0px;
+	margin-bottom:20px;
+}
+.news_other{
+	padding:5px;
+	padding-bottom:0px;
+}
+.news_other li{
+	background:url(http://www.vatgia.com/themes/multi_themes_v2/css/bladink/icon_news_other.gif) no-repeat 0px 3px;
+	display:block;
+	padding-left:12px;
+	margin-bottom:5px;
+}
+.news_other ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
